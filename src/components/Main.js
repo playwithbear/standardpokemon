@@ -8,7 +8,7 @@ export class Main extends Component {
     render() {
         return (
             <main className="grid-main">
-                {this.props.loadingSets ? <span className="loading">API, I choose you</span> : <MainSetDisplay setList={this.props.setList} />}
+                {this.props.loadingSets ? <span className="loading">API, I choose you</span> : <MainSetDisplay setList={this.props.setList} setCycles={this.props.setCycles} />}
                 <MainIndex />
             </main>
         )

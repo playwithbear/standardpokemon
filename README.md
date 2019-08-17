@@ -32,5 +32,5 @@ Twitter: [@mccallum_jon]
 
 ## Changelog
 
-2019-07-20 - Convert to a React based app. Migrate to 'standardpokemon' repository from fork of glacials What's in Standard?
+2019-08-16 - Convert to a React based app. Migrate to 'standardpokemon' repository from fork of glacials What's in Standard?
 2019-07-13 - Initial commit after forking from [glacials]. Did exist briefly on a different repository. Creating basic page and linking to domain.
