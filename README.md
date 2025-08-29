@@ -4,7 +4,7 @@
  
 *[What's in Standard?][website]* is a simple reference page made to help new (or not new) Pokémon TCG players easily check which sets are currently in Standard, see when the next rotation is going to happen, and understand how rotations work.
 
-[website]: https://standardpokemon.tk/
+[website]: https://playwithbear.github.io/standardpokemon/
 
 ## About
 What's in Standard? Pokémon Edition is based upon the work by both [glacials] What's in Standard? for Magic the Gathering, and an API provided by [Andrew Backes].
